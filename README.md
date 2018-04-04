@@ -66,7 +66,7 @@
   
     @Test
     public void testClonaContas() {
-      Conta conta = new Conta();
+      Conta conta = new ContaCorrente();
       conta.setLimite(1000);
       conta.setSaldo(2000);
       conta.setNumero(12345);
@@ -85,7 +85,7 @@
 
     @Test
     public void testCopiaContas() {
-      Conta conta = new Conta();
+      Conta conta = new ContaCorrente();
       conta.setLimite(1000);
       conta.setSaldo(2000);
       conta.setNumero(12345);
