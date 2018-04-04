@@ -6,7 +6,7 @@
 
 <img height="400" src="https://aula-java.github.io/aulas/avancado/interface/exerc-1.png">
 
-2. Transforme a classe **Conta** em uma interface e adapte as classes **ContaCorrente** e **ContaPoupanca**. Não altere nenhuma classe de teste, exceto **ContaTest**, que deve ser removida do projeto. Os testes devem todos passar com essas modificações.
+2. Transforme a classe **Conta** em uma classe abstrata e adapte as classes **ContaCorrente** e **ContaPoupanca**. Não altere nenhuma classe de teste, exceto **ContaTest**, que deve ser removida do projeto. Os testes devem todos passar com essas modificações.
 
 3. A interface **Comparable** definida no pacote *java.lang* serve para comparar objetos. Ela é utilizada geralmente para a ordenação de elementos. A classe que implementar **Comparable** é obrigada a fornecer a implementação para o método abstrato:
 ```
