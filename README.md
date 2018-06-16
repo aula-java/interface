@@ -1,10 +1,10 @@
 ## [Linguagem de Programação Orientada a Objetos 1](https://rodrigonoll.github.io/java/lpoo-1.html)
 
-### [Exercício: Conceitos Avançados: Interfaces](https://aula-java.github.io/aulas/avancado/#/6)
+### [Exercício: Conceitos Avançados: Interfaces](https://rodrigonoll.github.io/java/avancado/#/6)
 
 1. Clone o projeto e analise o código
 
-<img height="400" src="https://aula-java.github.io/aulas/avancado/interface/exerc-1.png">
+<img height="400" src="https://rodrigonoll.github.io/java/avancado/interface/exerc-1.png">
 
 2. Transforme a classe **Conta** em uma classe abstrata e adapte as classes **ContaCorrente** e **ContaPoupanca**. Não altere nenhuma classe de teste, exceto **ContaTest**, que deve ser removida do projeto. Os testes devem todos passar com essas modificações.
 
