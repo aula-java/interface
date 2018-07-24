@@ -1,6 +1,6 @@
 ## [Linguagem de Programação Orientada a Objetos 1](https://rodrigonoll.github.io/aula/lpoo-1.html)
 
-### [Exercício: Conceitos Avançados: Interfaces](https://rodrigonoll.github.io/aula/avancado/#/6)
+### [Exercício: Conceitos Avançados: Interfaces](https://rodrigonoll.github.io/aula/java-avancado/#/6)
 
 1. Clone o projeto e analise o código
 
